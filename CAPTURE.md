@@ -1,4 +1,4 @@
-#Screen Capture 
+# Screen Capture
 
 This page briefly shows the web page execution screen.
 
