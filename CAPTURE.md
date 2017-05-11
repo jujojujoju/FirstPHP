@@ -4,5 +4,20 @@ This page briefly shows the web page execution screen.
 
 * **Bulletin board main screen**:
 
-![VirtualBox_php_11_05_2017_19_25_36.png](images/VirtualBox_php_11_05_2017_19_25_36.png)
+![boardMainShot.png](images/boardMainShot.png)
+
+
+* **Specific post main screen**:
+
+![postMainShot.png](images/postMainShot.png)
+
+
+* **Gender Classification Visualization**:
+
+![genderClassification.png](images/genderClassification.png)
+
+
+* **Classification by age Recommandation Posts**:
+
+![postRecommandation.png](images/postRecommandation.png)
 
